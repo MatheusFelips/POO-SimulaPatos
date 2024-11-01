@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|c:\\users\\mathe\\desktop\\poo-2-2024\\patos\\patos\\src\\ironduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|solutionrelative:patos\\src\\ironduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|c:\\users\\mathe\\desktop\\poo-2-2024\\patos\\patos\\src\\iswimminable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|solutionrelative:patos\\src\\iswimminable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|c:\\users\\mathe\\desktop\\poo-2-2024\\patos\\patos\\src\\iquackable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|solutionrelative:patos\\src\\iquackable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|c:\\users\\mathe\\desktop\\poo-2-2024\\patos\\patos\\src\\rubberduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|solutionrelative:patos\\src\\rubberduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|c:\\users\\mathe\\desktop\\poo-2-2024\\patos\\patos\\src\\redheadduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|solutionrelative:patos\\src\\redheadduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|c:\\users\\mathe\\desktop\\poo-2-2024\\patos\\patos\\src\\mallardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|solutionrelative:patos\\src\\mallardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|c:\\users\\mathe\\desktop\\poo-2-2024\\patos\\patos\\src\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|solutionrelative:patos\\src\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|c:\\users\\mathe\\desktop\\poo-2-2024\\patos\\patos\\src\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|solutionrelative:patos\\src\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|c:\\users\\mathe\\desktop\\poo-2-2024\\patos\\patos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F8C2C6-8B27-49DF-AE9F-C8E74A45842B}|Patos\\Patos.csproj|solutionrelative:patos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IronDuck.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\IronDuck.cs",
+              "RelativeDocumentMoniker": "Patos\\src\\IronDuck.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\IronDuck.cs",
+              "RelativeToolTip": "Patos\\src\\IronDuck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:52:54.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RubberDuck.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\RubberDuck.cs",
+              "RelativeDocumentMoniker": "Patos\\src\\RubberDuck.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\RubberDuck.cs",
+              "RelativeToolTip": "Patos\\src\\RubberDuck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:31:18.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISwimminable.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\ISwimminable.cs",
+              "RelativeDocumentMoniker": "Patos\\src\\ISwimminable.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\ISwimminable.cs",
+              "RelativeToolTip": "Patos\\src\\ISwimminable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:50:00.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQuackable.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\IQuackable.cs",
+              "RelativeDocumentMoniker": "Patos\\src\\IQuackable.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\IQuackable.cs",
+              "RelativeToolTip": "Patos\\src\\IQuackable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:25:07.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedHeadDuck.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\RedHeadDuck.cs",
+              "RelativeDocumentMoniker": "Patos\\src\\RedHeadDuck.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\RedHeadDuck.cs",
+              "RelativeToolTip": "Patos\\src\\RedHeadDuck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:41:31.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MallardDuck.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\MallardDuck.cs",
+              "RelativeDocumentMoniker": "Patos\\src\\MallardDuck.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\MallardDuck.cs",
+              "RelativeToolTip": "Patos\\src\\MallardDuck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:26:26.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\Duck.cs",
+              "RelativeDocumentMoniker": "Patos\\src\\Duck.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\Duck.cs",
+              "RelativeToolTip": "Patos\\src\\Duck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:20:52.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFlyable.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\IFlyable.cs",
+              "RelativeDocumentMoniker": "Patos\\src\\IFlyable.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\src\\IFlyable.cs",
+              "RelativeToolTip": "Patos\\src\\IFlyable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:24:17.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\Program.cs",
+              "RelativeDocumentMoniker": "Patos\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\POO-2-2024\\Patos\\Patos\\Program.cs",
+              "RelativeToolTip": "Patos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:18:33.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
